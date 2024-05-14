@@ -19,5 +19,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [](https://github.com/pakim/recipepage)
-- Live Site URL: [](pakim.github.io/recipepage/)
+- Solution URL: [https://github.com/pakim/recipepage](https://github.com/pakim/recipepage)
+- Live Site URL: [pakim.github.io/recipepage/](pakim.github.io/recipepage/)
